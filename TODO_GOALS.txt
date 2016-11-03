@@ -1,0 +1,8 @@
+﻿[x]GUI for debugging and listing off RPCS and shit
+[x]Lets find the faggy fukin RPC that dogebot sends
+[x]Add friendname so that dogebot lists me as an abuser :)
+[x]Port autosmite cuz aot is shit without 4ks
+cleanup RCs shitcode and add better antis and more of them
+make a searcher for photonplayer pref keys to identify nerds.
+make a friendslist gui so i can join other ppl
+add more and better crashers than my runtime version MOAR CONTROLLLL
